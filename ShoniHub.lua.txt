@@ -99,7 +99,11 @@ end
 
 function loadShoniHub()
     -- === WHITELIST (mets ton pseudo Roblox ici en minuscules) ===
-    local Whitelist = {"exta1516, Johanny_38", ""}  -- Change "exta1516" par ton pseudo exact si différent
+    local Whitelist = {"exta1516", ""}  -- Change "exta1516" par ton pseudo exact si différent
+
+function loadShoniHub()
+    -- === WHITELIST (mets ton pseudo Roblox ici en minuscules) ===
+    local Whitelist = {"Johanny_38", ""}  -- Change "exta1516" par ton pseudo exact si différent
 
     local function isWhitelisted(name)
         if not name then return false end
@@ -463,5 +467,6 @@ function loadShoniHub()
 end
 
 createKeyGui()
+
 
 
