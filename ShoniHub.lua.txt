@@ -10,7 +10,7 @@ local player = Players.LocalPlayer
 local Whitelist = {
     "exta1516",
     "Ferzieeeee",
-    "Dhejelelervrlfufhffb",
+    "pseudo3",
     "autrepseudo",
     "encoreun",
     -- Ajoute autant de pseudos que tu veux ici
@@ -365,6 +365,7 @@ end
 -- LANCEMENT DIRECT DU HUB
 -- ========================
 loadShoniHub()
+
 
 
 
