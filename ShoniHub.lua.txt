@@ -9,7 +9,7 @@ local player = Players.LocalPlayer
 -- === WHITELIST : AJOUTE LES PSEUDOS ROBLOX AUTORISÉS ICI ===
 local Whitelist = {
     "exta1516",
-    "secretcopo0",
+    "Ferzieeeee",
     "pseudoami2",
     "autrepseudo",
     "encoreun",
@@ -365,3 +365,5 @@ end
 -- LANCEMENT DIRECT DU HUB
 -- ========================
 loadShoniHub()
+
+
